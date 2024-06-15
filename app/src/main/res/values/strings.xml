@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Swipe</string>
+
+    <string name="action_open_spotify">Open Spotify</string>
+    <string name="view_liked_tracks">View Liked Tracks</string>
+    <string name="spotify_uri">spotify:playlist:37i9dQZF1DX4JAvHpjipBk</string>
+    <string name="action_spotify_error">Spotify was not found on your device. Please install Spotify on your device and try again.</string>
+</resources>
